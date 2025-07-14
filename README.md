@@ -119,8 +119,10 @@ Leynes, Chris Michael M. Rodriguez, Jon Mary R. Sapotalo, Jackie Mae G.
             BrgyGo relies on a stable internet connection, MySQL database, web hosting or server, and secure authentication 
             frameworks to ensure the availability, security, and proper functioning of the platform.
             
-            
-      
+## Specific Requirements
+### System features
+### Interface requirements
+### Non-functional requirements
 
 
 
