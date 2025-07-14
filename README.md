@@ -1,9 +1,9 @@
-Title: BrgyGo: Al-Assisted Resident Information Management System with Evacuation Area Mapping
+# Title: BrgyGo: Al-Assisted Resident Information Management System with Evacuation Area Mapping
 
-Members: 
+## Members: 
 Leynes, Chris Michael M. Rodriguez, Jon Mary R. Sapotalo, Jackie Mae G.
       
-Introduction/Summary
+## Introduction/Summary
 
      Purpose 
          BrgyGo aims to minimize errors, reduce the administrative workload, and promote a more organized
@@ -54,7 +54,7 @@ Introduction/Summary
          Web-based System - A convenient and easy to use from anywhere with an internet connection.
 
 
-Overall Description
+## Overall Description
 
          Discuss system architecture 
               The System architecture of the system is designed to make community management simple, secure, and accessible for residents,
@@ -91,22 +91,23 @@ Overall Description
                    API Chatbot -  Api Ninjas
                    API GPS - Google Maps API  leaflet
       
-       Use Case
+## Use Case
 <img width="865" height="523" alt="Case study" src="https://github.com/user-attachments/assets/f975b342-5f39-4731-862e-3bae178d6314" />
 
-      Data flow Diagram 
+## Data flow Diagram 
 <img width="840" height="502" alt="Data flow  diagram" src="https://github.com/user-attachments/assets/084e2578-f316-48ee-84fd-a4a2d068116f" />
 
-      Context Diagram 
+## Context Diagram 
 <img width="750" height="498" alt="Context" src="https://github.com/user-attachments/assets/f252b0d5-df81-4c83-bf72-890d802dda8b" />
 
-       Entity Relationship Diagram
+## Entity Relationship Diagram
 <img width="740" height="399" alt="ERD" src="https://github.com/user-attachments/assets/707c7ea5-5381-489b-a964-b0b7a99f064f" />
       
-       Requirement Analysis 
+## Requirement Analysis 
 <img width="1420" height="761" alt="Requirement analysis" src="https://github.com/user-attachments/assets/14f7275d-d8c4-48b4-821c-16d0a03b3603" />
        
-Constraints, limitation and dependencies
+## Constraints, limitation and dependencies
+       
       - Contraints 
              BrgyGo must be developed for Barangay officials in Barangay Burgos Tuy Batangas.
              It  web browsers designed for Barangay officials  and android device designed for Residents.
