@@ -120,8 +120,11 @@ Leynes, Chris Michael M. Rodriguez, Jon Mary R. Sapotalo, Jackie Mae G.
             frameworks to ensure the availability, security, and proper functioning of the platform.
             
 ## Specific Requirements
-### System features
+### System features 
+
 ### Interface requirements
+       Application Interface 
+       Web Application
 ### Non-functional requirements
 
 
