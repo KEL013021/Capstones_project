@@ -126,9 +126,14 @@ Leynes, Chris Michael M. Rodriguez, Jon Mary R. Sapotalo, Jackie Mae G.
        Application Interface 
        Web Application
 ### Non-functional requirements
+      Fast and Easy to Use 
+          BrgyGo is designed to respond quickly. The system should feel smooth and simple enough that even those with little technical experience (like barangay staff or residents).
+      Always Available 
+         The system should be available almost all the time. It should also work well on commonly used web browsers like Chrome, and on Android phones.
+         To avoid losing data, regular system backups must be done, and the platform should be stable even when many users are using it at once.
 
 
-
+          
        
        
        
