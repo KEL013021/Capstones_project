@@ -31,6 +31,71 @@ Introduction/Summary
          Web-based System - A convenient and easy to use from anywhere with an internet connection.
 
 
+Overall Description
+         Discuss system architecture 
+              The System architecture of the system is designed to make community management                    simple, secure, and accessible for residents,
+              staff, and administrators. It connects users through an easy-to-use platform where               they can log in, request information, and manage records.
+              <img width="1527" height="785" alt="System Archi" src="https://github.co                   attachments/assets/8c8f17b2-5da9-4275-b65c-102722991c18" />
+              
+              Administrator – Oversee the entire system. They manage user access, monitor data,                and ensure that the system functions smoothly.
+              
+              AI Chatbot – Users can ask the AI chatbot for help, whether they need to find an                 update, or get quick answers, the chatbot responds
+              immediately. This makes it easier for residents to get the information the need                   without waiting for staff assistance. 
+              
+              Database – The system securely stores user records, residents request, and other                 important data in a structured database. 
+              This makes information easy to find when needed and keeps it safe from                           unauthorized access.
+
+              Residents – can log in, check community announcements, ask for assistance or                     submit requests for services.
+              They have access to essential information that helps them stay informed.
+
+              Security – Each user must log in with their correct credentials before accessing                 the system. If a login attempt fails, access is denied
+              to prevent unauthorized users from viewing sensitive information.
+
+              Staff – members are responsible for handling resident requests, updating records                 and ensuring that information is accurate and updated.
+              They help bridge the gap between residents and administrators.
+
+              User Interaction - The residents, staff and administrators can log in using                      laptops, desktops, or mobile phones making them system accessible
+              anytime and anywhere. Each user sees different interfaces based on their role,                   ensuring that they only have access to what they need.
+
+              Website – The website serves as the main point of interaction for all users. The                 design is clean and user friendly, making it easy to navigate even for those who                 are not very familiar with technology.
+
+       Software perspective and functions
+             Operating System - Windows 11
+             Integrated Development (IDE) -Sublime and Vs code
+             Programming Languages - Front-end: HTML, CSS, JavaScript Back-end: PHP, Python,                  Node.js
+             Database Management system - MySQL
+             Web Server and hosting - Infinity Free
+             API Chatbot -  Api Ninjas
+             API GPS - Google Maps API  leaflet
+      
+       Use Case
+            <img width="865" height="523" alt="Case study" src="https://github.com/user-attachments/assets/f063fd15-f442-4104-845e-567591bf7cdf" />
+
+      Data flow Diagram 
+            <img width="840" height="502" alt="Data flow  diagram" src="https://github.com/user-attachments/assets/084e2578-f316-48ee-84fd-a4a2d068116f" />
+      Context Diagram 
+            <img width="750" height="498" alt="Context" src="https://github.com/user-attachments/assets/f252b0d5-df81-4c83-bf72-890d802dda8b" />
+       Entity Relationship Diagram
+            <img width="740" height="399" alt="ERD" src="https://github.com/user-attachments/assets/707c7ea5-5381-489b-a964-b0b7a99f064f" />
+       Requirement Analysis 
+            <img width="1420" height="761" alt="Requirement analysis" src="https://github.com/user-attachments/assets/14f7275d-d8c4-48b4-821c-16d0a03b3603" />
+       
+
+
+      
+
+
+
+       
+       
+       
+
+       
+
+            
+
+              
+
 
          
     
