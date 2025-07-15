@@ -124,6 +124,7 @@ Leynes, Chris Michael M. Rodriguez, Jon Mary R. Sapotalo, Jackie Mae G.
 
 ### Interface requirements
        Application Interface 
+         https://github.com/jomai0830/Resident_App 
        Web Application
 ### Non-functional requirements
       Fast and Easy to Use 
