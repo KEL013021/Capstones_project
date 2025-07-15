@@ -121,6 +121,13 @@ Leynes, Chris Michael M. Rodriguez, Jon Mary R. Sapotalo, Jackie Mae G.
             
 ## Specific Requirements
 ### System features 
+      -Api for Evacuation center
+      -Api for Chatbot Assistance 
+      -Document requests 
+      -Emergency response 
+      -Barangay Announcements 
+      -Digitize record-keeping
+      
  
 
 ### Interface requirements
