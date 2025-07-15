@@ -121,11 +121,15 @@ Leynes, Chris Michael M. Rodriguez, Jon Mary R. Sapotalo, Jackie Mae G.
             
 ## Specific Requirements
 ### System features 
+ 
 
 ### Interface requirements
        Application Interface 
          https://github.com/jomai0830/Resident_App 
-       Web Application
+         
+       Web Interface 
+         https://github.com/KEL013021/Capstone-code
+         
 ### Non-functional requirements
       Fast and Easy to Use 
          -BrgyGo is designed to respond quickly. The system should feel smooth and simple enough that even those with little technical experience (like barangay staff or residents).
